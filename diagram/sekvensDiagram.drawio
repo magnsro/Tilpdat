@@ -1,0 +1,223 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Page-1" id="FFELQJpM7OAj1xXUGK4I">
+    <mxGraphModel dx="2276" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="600" width="840" x="-30" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-69" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;direction=west;" value="" vertex="1">
+          <mxGeometry height="40" width="70" x="-30" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Buttons&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Sensor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Ordre&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tilstandsmaskin&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-5" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Motor, lys, dør&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-9" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-28" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="820" as="sourcePoint" />
+            <mxPoint x="80" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-7" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-8" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="180" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="640" width="30" x="410" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-11" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-10" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Q_SPsfCTI_kZelRP9-30-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-12" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-10" style="endArrow=classic;html=1;rounded=0;exitX=-0.033;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="402" y="219.99999999999997" as="sourcePoint" />
+            <mxPoint x="95" y="220.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;elevio_callButton()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-16" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-8" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" target="Q_SPsfCTI_kZelRP9-30-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="460" as="sourcePoint" />
+            <mxPoint x="450" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-19" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-55" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="830" as="sourcePoint" />
+            <mxPoint x="610" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-20" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="830" as="sourcePoint" />
+            <mxPoint x="590" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-26" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="575" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-21" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.172;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" target="Q_SPsfCTI_kZelRP9-30-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="699" />
+            </Array>
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="530" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="oppdaterTilstand()" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-24" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="830" as="sourcePoint" />
+            <mxPoint x="770" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="745" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="utførEndring()" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-29" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="820" as="sourcePoint" />
+            <mxPoint x="80" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="35" x="65" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-30" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-10" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.313;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="400" as="sourcePoint" />
+            <mxPoint x="350" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-31" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="elevio_stopButton()" vertex="1">
+          <mxGeometry height="30" width="120" x="130" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-42" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-28" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.1;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" target="Q_SPsfCTI_kZelRP9-30-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="470" as="sourcePoint" />
+            <mxPoint x="290" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="35" x="65" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-45" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-50" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="820" as="sourcePoint" />
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-46" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-10" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="530" as="sourcePoint" />
+            <mxPoint x="370" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="elevio_obstruction()" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-48" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-44" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" target="Q_SPsfCTI_kZelRP9-30-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="580" as="sourcePoint" />
+            <mxPoint x="250" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-51" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-50" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="820" as="sourcePoint" />
+            <mxPoint x="260" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="245" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-52" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-10" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.067;exitY=0.686;exitDx=0;exitDy=0;exitPerimeter=0;" target="Q_SPsfCTI_kZelRP9-30-50" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="620" as="sourcePoint" />
+            <mxPoint x="380" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="elevio_floorSensor()" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-54" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.067;entryY=0.734;entryDx=0;entryDy=0;entryPerimeter=0;" target="Q_SPsfCTI_kZelRP9-30-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="640" as="sourcePoint" />
+            <mxPoint x="380" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-56" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-18" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="590" y="690" as="sourcePoint" />
+            <mxPoint x="590" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="570" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1.033;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="569.01" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="203.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="oppstartFerdig()" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="50" x="235" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-62" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-61" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="Q_SPsfCTI_kZelRP9-30-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;etasje1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-65" edge="1" parent="1" source="Q_SPsfCTI_kZelRP9-30-8" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="80" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="forever" vertex="1">
+          <mxGeometry height="30" width="60" x="-30" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_SPsfCTI_kZelRP9-30-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="65" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
