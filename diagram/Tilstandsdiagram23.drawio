@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Page-1" id="oHOuN6h2EX2coE44xjFy">
+    <mxGraphModel dx="1426" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Stopp&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;enter / stopp, stopplys&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="140" x="630" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-4" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LCoZ1ew31sU1k-LvVdY2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-5" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LCoZ1ew31sU1k-LvVdY2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Oppstart" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-6" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LCoZ1ew31sU1k-LvVdY2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="240" />
+              <mxPoint x="460" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-34" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LCoZ1ew31sU1k-LvVdY2-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-35" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LCoZ1ew31sU1k-LvVdY2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inaktiv" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stoppknapp" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stoppknapp" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stoppknapp" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="floorSensor = 1" vertex="1">
+          <mxGeometry height="30" width="110" x="340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-17" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LCoZ1ew31sU1k-LvVdY2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-26" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LCoZ1ew31sU1k-LvVdY2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="780" />
+              <mxPoint x="710" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="I etasje" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="timer = 3s" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;floorSensor = Mål / Stopp &amp;amp; etasjelys&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="210" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-23" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="LCoZ1ew31sU1k-LvVdY2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="650" />
+              <mxPoint x="700" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-28" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LCoZ1ew31sU1k-LvVdY2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kjører Ned" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-24" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LCoZ1ew31sU1k-LvVdY2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-29" edge="1" parent="1" source="LCoZ1ew31sU1k-LvVdY2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LCoZ1ew31sU1k-LvVdY2-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="520" />
+              <mxPoint x="370" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Kjører Opp" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stoppknapp" vertex="1">
+          <mxGeometry height="30" width="60" x="590" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Stoppknapp" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mål&amp;gt;etasje/ retning -&amp;gt; opp" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="LCoZ1ew31sU1k-LvVdY2-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mål&amp;lt;etasje/ retning -&amp;gt; ned" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
