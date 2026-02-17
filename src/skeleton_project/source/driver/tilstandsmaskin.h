@@ -10,3 +10,4 @@ typedef enum {
 } tilstand;
 
 void stoppFunk(tilstand * tilstandNå);
+void oppstartFunk(tilstand* tilstandNå);
