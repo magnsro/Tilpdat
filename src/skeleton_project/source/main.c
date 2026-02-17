@@ -9,13 +9,13 @@
 int main(){
     elevio_init();
 
-
     tilstand tilstandNå = OPPSTART;
 
-    oppstartFunk(&tilstandNå)
+    oppstartFunk(&tilstandNå);
 
-    while (1){
-        
+    while (1)
+    {
+
     }
 /*
 printf("=== Example Program ===\n");
